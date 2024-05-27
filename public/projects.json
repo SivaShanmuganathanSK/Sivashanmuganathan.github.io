@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Friends 2 Feed",
+      "category": "Web development",
+      "image": "images/project-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Fit - X",
+      "category": "Web development",
+      "image": "images/project-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Random guesser",
+      "category": "Web design",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Instagram - Clone",
+      "category": "Applications",
+      "image": "images/project-3.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bookify",
+      "category": "Web design",
+      "image": "images/project-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Event Poster Landing page",
+      "category": "Web design",
+      "image": "images/project-6.png"
+    },
+    {
+      "id": 7,
+      "title": "Unit conversion",
+      "category": "Web development",
+      "image": "images/project-7.png"
+    },
+    {
+      "id": 8,
+      "title": "Task Manager",
+      "category": "Applications",
+      "image": "images/project-8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Expense tracker",
+      "category": "Web development",
+      "image": "images/project-9.png"
+    }
+  ]
+  
